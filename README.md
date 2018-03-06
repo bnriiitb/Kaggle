@@ -1,4 +1,4 @@
-# Kaggle-Challenges Solutions
+# Kaggle Challenges Solutions
 This repository contains the solutions to the Kaggle Challenges I have solved.
 
 # Install

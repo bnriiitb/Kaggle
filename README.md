@@ -1,5 +1,5 @@
 # Kaggle Challenges Solutions
-This repository contains the solutions to the Kaggle Challenges I have solved.
+This repository contains the solutions to the Kaggle Challenges that I solved.
 
 # Install
 
